@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+
+deploy_github.py
+
+
+deploy_github.py
+
